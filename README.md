@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @meet-prakash ...   /*Bhanu Prakash*/ www.linkedin.com/in/bprakash889
-- Actively looking for open positions in ETL
+- 👋 Hi, I’m @meet-prakash ...   
+- /*Bhanu Prakash*/  **Actively looking for open positions in ETL**
+- www.linkedin.com/in/bprakash889
+- https://github.com/meet-prakash
+
 
 
 - 👀 I’m working on 
