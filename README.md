@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @meet-prakash ...   /*Bhanu Prakash*/ www.linkedin.com/in/bprakash889
+- Actively looking for open positions in ETL
+
+
 - 👀 I’m working on 
 -     ETL, Datastage, SQL, Unix, SSIS, Snowflake, Snowpipes, Service-Now, BMC Remedy, 
 -     Datawarehousing, Star/snowflake schema desings, ETL Architectures, Waterfall/Agile environment,
